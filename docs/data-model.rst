@@ -59,6 +59,8 @@ Contracts, Constructors, and Instances
   scale 0.75
 
   !define SHOW_CONTRACT
+  !define SHOW_DEPLOYMENT_HISTORY
+  !define SHOW_DEPLOYMENT
   !define SHOW_INSTANCE
   !define SHOW_CONSTRUCTOR
   !define SHOW_INTERFACE
@@ -146,6 +148,8 @@ Combined Data Model
 
    !define SHOW_CONTRACT
    !define SHOW_INTERFACE
+   !define SHOW_DEPLOYMENT_HISTORY
+   !define SHOW_DEPLOYMENT
    !define SHOW_INSTANCE
    !define SHOW_ABI
    !define SHOW_AST
